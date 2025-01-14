@@ -12,6 +12,4 @@ spring:
     discovery:
       enabled: true
 
-eureka:
-  instance:
-    hostname: localhost
+
